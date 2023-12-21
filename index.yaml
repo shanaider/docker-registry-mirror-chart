@@ -1,0 +1,16 @@
+apiVersion: v1
+entries:
+  docker-registry-mirror:
+  - apiVersion: v1
+    appVersion: 2.8.3
+    created: "2023-12-21T10:36:01.76398595+07:00"
+    description: A Helm chart for Docker Registry Mirror
+    digest: 46d7e31f2de14a8c3ce37b6f20b9059c408b45ed28c799870b88e1f79d84e32a
+    home: https://github.com/shanaider/docker-registry-mirror
+    name: docker-registry-mirror
+    sources:
+    - https://github.com/shanaider/docker-registry-mirror
+    urls:
+    - docker-registry-mirror-1.0.0.tgz
+    version: 1.0.0
+generated: "2023-12-21T10:36:01.760213816+07:00"
